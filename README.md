@@ -105,6 +105,8 @@ pip install pandas google-cloud-bigquery streamlit yfinance plotly
 
 ```bash
 set GOOGLE_APPLICATION_CREDENTIALS="path/to/Credentials.json"
+or
+Add Credientials.json file
 ```
 
 ### **3️⃣ Run Streamlit Dashboard**
