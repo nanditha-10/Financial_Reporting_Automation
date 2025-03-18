@@ -3,9 +3,9 @@
 import pandas as pd
 
 # Load datasets
-stock_data = pd.read_csv(r"C:\Users\ANANDITH\Desktop\Financial Reporting Automation\yahoo_finance_dataset.csv")
-indicators = pd.read_csv(r"C:\Users\ANANDITH\Desktop\Financial Reporting Automation\indicators_by_company.csv")
-companies = pd.read_csv(r"C:\Users\ANANDITH\Desktop\Financial Reporting Automation\companies.csv")
+stock_data = pd.read_csv("path_of_your_yahoo_finance_dataset.csv")
+indicators = pd.read_csv("path_of_your_indicators_by_company.csv")
+companies = pd.read_csv("path_of_your_companies.csv")
 
 # Merge stock data with company details
 merged_data = stock_data.merge(companies, left_on="Ticker", right_on="name_latest", how="left")
