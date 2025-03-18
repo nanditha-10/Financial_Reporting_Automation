@@ -86,9 +86,13 @@ The dataset includes the following key financial data points:
 ## 📊 Streamlit Dashboard Features
 
 ✅ **Key Financial Metrics Display**
+
 ✅ **Stock Price Trends Visualization**
+
 ✅ **Customizable Financial Statements**
+
 ✅ **Company-wise Data Filtering**
+
 ✅ **Real-time Stock Data Updates**
 
 ---
