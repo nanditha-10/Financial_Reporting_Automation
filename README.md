@@ -100,7 +100,7 @@ The dataset includes the following key financial data points:
 
 Due to storage limitations, we were unable to upload one dataset. You can download it manually from Kaggle:
 
-🔗 US Stocks Fundamentals Dataset
+🔗 US Stocks Fundamentals Dataset : https://www.kaggle.com/datasets/usfundamentals/us-stocks-fundamentals
 
 Once downloaded, place the dataset in the appropriate directory for further processing.
 ---
