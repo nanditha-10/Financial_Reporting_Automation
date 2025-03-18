@@ -96,6 +96,14 @@ The dataset includes the following key financial data points:
 ✅ **Real-time Stock Data Updates**
 
 ---
+🚀 Missing Dataset Notice:
+
+Due to storage limitations, we were unable to upload one dataset. You can download it manually from Kaggle:
+
+🔗 US Stocks Fundamentals Dataset
+
+Once downloaded, place the dataset in the appropriate directory for further processing.
+---
 
 ## 💡 How to Run the Project
 
