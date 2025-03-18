@@ -119,15 +119,7 @@ Add Credientials.json file
 streamlit run financial_dashboard.py
 ```
 
----
 
-## 📌 Future Enhancements
-
-🔹 Add **Machine Learning-based financial forecasting** 📈\
-🔹 Integrate **additional financial APIs** (Alpha Vantage, Bloomberg) 🔗\
-🔹 Implement **alerts & notifications** for stock movements 📢
-
----
 
 ## 📢 Contributing
 
