@@ -5,13 +5,13 @@ import pandas as pd
 import plotly.express as px
 
 # ✅ Set Google Cloud credentials inside the script
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\ANANDITH\Desktop\Financial Reporting Automation\Credentials.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path_of_your_Credentials.json"
 
 # ✅ Set up BigQuery client
 client = bigquery.Client()
 
 # ✅ Your BigQuery table details
-PROJECT_ID = "nanditha-454115"
+PROJECT_ID = "path_of_project_id"
 DATASET = "financial_reporting"
 TABLE = "financial_data"
 TABLE_PATH = f"{PROJECT_ID}.{DATASET}.{TABLE}"
