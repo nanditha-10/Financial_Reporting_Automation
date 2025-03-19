@@ -1,4 +1,4 @@
-# 📊 DataFoundation: Financial Reporting Automation Framework
+# 📊 DataFoundation: Financial Reporting Automation Framework with BigQuery and GCP
 
 ## 🚀 Streak Projects
 
